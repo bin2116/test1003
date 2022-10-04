@@ -1,6 +1,4 @@
 1顶顶顶顶
-
-<<<<<<< HEAD
 2 dd555ddd
 3 ff555ddd
 4 hh666dd
